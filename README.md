@@ -1,5 +1,6 @@
 # Exercise-05c-LightsAndMaterials
 
+An example of Unity's built-in PBR Materials support, with dynamic lighting.
 
 ## Implementation
 
@@ -8,4 +9,4 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Levi Coffing, Master of Reality
